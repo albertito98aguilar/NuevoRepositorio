@@ -4,7 +4,7 @@ public class Artista {
     String nombreArtista;
     String generoMusica;
 
-    
+    //Soy alberto
 
     public Artista(String nombreArtista) {
         this.nombreArtista = nombreArtista;
